@@ -1,0 +1,7 @@
+.starWarsAutocomplete {
+  width: 100%;
+}
+
+.starWarsAutocomplete > div {
+  margin-bottom: 4rem;
+}

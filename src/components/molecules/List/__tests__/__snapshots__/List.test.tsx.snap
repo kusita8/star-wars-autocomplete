@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List it should match the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="list"
+  >
+    <p
+      class="list__empty-results"
+    >
+      No results found for 
+    </p>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StarWarsAutocomplete it should match the snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="starWarsAutocomplete"
+  >
+    <div>
+      <label>
+        Name
+      </label>
+      <input
+        class="input"
+        type="text"
+      />
+    </div>
+    <div
+      class="list"
+    >
+      <a
+        class="listItem"
+        href="https://swapi.dev/api/people/1/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Luke Skywalker
+      </a>
+      <a
+        class="listItem"
+        href="https://swapi.dev/api/people/2/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        C-3PO
+      </a>
+      <a
+        class="listItem"
+        href="https://swapi.dev/api/people/3/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        R2-D2
+      </a>
+      <a
+        class="listItem"
+        href="https://swapi.dev/api/people/4/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Darth Vader
+      </a>
+      <a
+        class="listItem"
+        href="https://swapi.dev/api/people/5/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Leia Organa
+      </a>
+      <a
+        class="listItem"
+        href="https://swapi.dev/api/people/6/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Owen Lars
+      </a>
+      <a
+        class="listItem"
+        href="https://swapi.dev/api/people/7/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Beru Whitesun lars
+      </a>
+      <a
+        class="listItem"
+        href="https://swapi.dev/api/people/8/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        R5-D4
+      </a>
+      <a
+        class="listItem"
+        href="https://swapi.dev/api/people/9/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Biggs Darklighter
+      </a>
+      <a
+        class="listItem"
+        href="https://swapi.dev/api/people/10/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Obi-Wan Kenobi
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;

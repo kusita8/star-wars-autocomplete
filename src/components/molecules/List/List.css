@@ -1,0 +1,27 @@
+.list {
+  border: 1px solid black;
+}
+
+.list__empty-results {
+  height: 3rem;
+  padding: 0 0.4rem;
+  display: flex;
+  align-items: center;
+}
+
+.list--loading {
+  height: 20rem;
+  background: linear-gradient(90deg, hsl(210, 15%, 88%), hsl(210, 15%, 95%), hsl(210, 15%, 88%));
+  background-size: 200%;
+  animation: skeletonAnimation 1s infinite;
+  position: relative;
+}
+
+@keyframes skeletonAnimation {
+  from {
+    background-position: -100% 0;
+  }
+  to {
+    background-position: 100% 0;
+  }
+}

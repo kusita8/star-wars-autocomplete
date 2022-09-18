@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input it should match the snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <label>
+      hola mundo
+    </label>
+    <input
+      class="input"
+      type="text"
+    />
+  </div>
+</DocumentFragment>
+`;

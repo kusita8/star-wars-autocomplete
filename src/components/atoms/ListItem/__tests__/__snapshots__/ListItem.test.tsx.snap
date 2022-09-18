@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListItem it should match the snapshot 1`] = `
+<DocumentFragment>
+  <a
+    class="listItem"
+    href="https://swapi.dev/api/people/1/"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    Luke Skywalker
+  </a>
+</DocumentFragment>
+`;

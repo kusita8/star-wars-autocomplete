@@ -1,0 +1,30 @@
+:root {
+  --red: #b63e42;
+  --orange: #da8b57;
+  --yellow: #fef0dd;
+  --blue: #b9c3ca;
+  --white: #ffffff;
+  --transition: 200ms ease;
+}
+
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Roboto", Helvetica, Sans-Serif;
+  font-size: 1.2rem;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
