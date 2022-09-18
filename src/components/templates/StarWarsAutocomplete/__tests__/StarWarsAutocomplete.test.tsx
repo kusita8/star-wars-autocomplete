@@ -62,7 +62,7 @@ describe("StarWarsAutocomplete", () => {
   });
 
   test("it should display alert when there is an error", async () => {
-    const mockAlert = jest.fn(getStarWarsPersons);
+    const mockAlert = jest.fn();
     const spy1 = jest.spyOn(window, "alert").mockImplementation(mockAlert);
     const spy2 = jest.spyOn(service, "getStarWarsPersons").mockImplementation(() => {
       throw new Error("");
