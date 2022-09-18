@@ -1,5 +1,6 @@
 # Star Wars Character Searcher
 
+Demo: [https://star-wars-autocomplete.netlify.app/](https://star-wars-autocomplete.netlify.app/)
 Api: [https://swapi.dev/](https://swapi.dev/)
 
 ## Available Scripts
