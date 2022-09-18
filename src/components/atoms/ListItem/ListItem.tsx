@@ -24,7 +24,7 @@ export const ListItem: FC<ListItemProps> = ({ person, search }) => {
         return letter;
       })
       .join("");
-  }, [formattedSearch]);
+  }, [formattedSearch, person.name]);
 
   return (
     <a
